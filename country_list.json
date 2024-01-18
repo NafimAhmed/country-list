@@ -1,4 +1,21 @@
-[
+{
+    "country":[
+    '🇧🇩 Bangla',
+    '🇬🇧 english',
+    '🇮🇳 hindi',
+    '🇪🇦 spanish',
+    '🇨🇵 French',
+    '🇨🇳 chinese',
+    '🇩🇪 German',
+    '🇵🇰 urdu',
+    '🇯🇵 Japanes',
+    '🇹🇷 Turkey',
+    '🇸🇦 Arabic',
+    '🇦🇫 South africa',
+    '🇰🇷 Korea',
+    '🇱🇰 Sri Lanka',
+  ],
+    "language":[
     '🇧🇩 Bangla',
     '🇬🇧 english',
     '🇮🇳 hindi',
@@ -14,3 +31,5 @@
     '🇰🇷 Korea',
     '🇱🇰 Sri Lanka',
   ]
+
+}
